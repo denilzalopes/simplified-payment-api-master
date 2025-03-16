@@ -21,13 +21,7 @@ The Unit tests was developed during another [Youtube Tutorial](https://youtu.be/
 
 ## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Fernanda-Kipper/auth-api.git
-```
-
-2. Install dependencies with Maven
+1. Install dependencies with Maven
 
 ## Usage
 
